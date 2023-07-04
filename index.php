@@ -25,7 +25,7 @@
 <h1>Bem-vindo a Sala do Empreendedor de Palhoça</h1>
 <h2>Conheça os serviços da Sala do Empreendedor</h2>
 <h3>Atendimento à todas as empresas e empreendedores do município de Palhoça</h3>
-<a href='https://www.freecodecamp.org/'><button>Link para o freeCodeCamp</button></a>
+<a href='cursosecapacitacoes.php'><button>Cursos e Capacitações</button></a>
 
 </body>
 
