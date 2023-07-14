@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php 
-include "cabecalho.php";
+require_once "cabecalho.php";
 ?>
 <body>
 

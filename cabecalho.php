@@ -146,9 +146,7 @@
         </body>
 
 </html>
-<ul class="menu">
 
-</ul>
 </header>
 
 <!-- Resto do conteúdo da página -->
