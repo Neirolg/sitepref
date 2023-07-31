@@ -20,3 +20,6 @@ require_once "cabecalho.php";
 </body>
 
 </html>
+<?php 
+require_once "rodape.php";
+?>
